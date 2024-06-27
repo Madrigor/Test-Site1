@@ -1,0 +1,11 @@
+h1{font-size: 30px}
+#id1{font-size: 18px;font-style: inherit; font-family: sans-serif}
+#span_id1{color: red}
+#span_id2{color: blue}
+#span_id3{color: yellowgreen}
+#span_id4{color: plum}
+h2{font-size: 22px}
+ul{list-style-image: url(photos/forward_183612.png)}
+li{font-size: 20px}
+.deviz{font-size: 18px;font-style: inherit; font-family: sans-serif}
+img{width: 250px;height: 250px}
